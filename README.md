@@ -13,3 +13,6 @@ bikeshare.py
 ### Credits
 Udacity team
 
+### Changes
+New changes are made here
+

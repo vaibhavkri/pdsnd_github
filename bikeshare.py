@@ -7,6 +7,7 @@ CITY_DATA = {   'washington': 'washington.csv',
                 'new york': 'new_york_city.csv'
                }
 
+#changes for github are made here
 #declaring global strings
 city_list = ['chicago','new york','washington']
 months_list = ['','january','february','march','april','may','june']
